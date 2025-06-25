@@ -1,26 +1,40 @@
-# Fabrice Cloud Site 🚀
+# 🌐 Fabrice Cloud Site 🚀
 
 This is a static website hosted on **AWS EC2**, served through **Apache**, and load-balanced with an **Application Load Balancer (ALB)** — all deployed using the **AWS CLI**.
 
-## 💡 What I learned
-- AWS CLI resource provisioning
-- EC2 & EBS setup
-- Load Balancer + target group config
-- Apache server setup
-- Hosting & debugging real web traffic
-- Pushing to GitHub like a DevOps pro
+---
+
+## 💡 What I Learned
+
+- Provisioned infrastructure using the AWS CLI
+- Connected and mounted EBS volumes
+- Installed Apache & hosted a live website
+- Deployed an Application Load Balancer
+- Registered and debugged EC2 target health
+- Opened up public access via Security Group rules
+- Pushed the live project to GitHub
+
+---
 
 ## 🛠 Tech Stack
-- Amazon EC2
-- Amazon EBS
+
+- AWS EC2
+- EBS (Elastic Block Store)
 - Apache HTTPD
-- ALB (Application Load Balancer)
+- Application Load Balancer (ALB)
 - AWS CLI
 - Git & GitHub
 
-## 📸 Screenshot
-![site preview](screenshot.png)
+---
 
-## ⚙️ Author
+## 📸 Screenshot
+
+![Website Screenshot](screenshot.png)
+
+---
+
+## ✨ Author
+
 **Fabrice Mansoni Mabela**  
-LinkedIn / GitHub / DevOps Explorer 🧑‍🚀
+DevOps Explorer 🧠 | Builder of Bold Infrastructure 🏗️  
+[GitHub Profile](https://github.com/ravex23)
